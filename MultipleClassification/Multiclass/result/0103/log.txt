@@ -1,0 +1,2 @@
+add hiden layer nodes to 65;
+and extend adaboost into the first 5 iterator;

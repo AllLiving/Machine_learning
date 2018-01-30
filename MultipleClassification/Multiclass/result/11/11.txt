@@ -1,0 +1,24 @@
+迭代55次，
+
+mstFreq / 15;
+
+Comment::getLevel{
+	0/.06/1.2
+}
+
+Compute::{
+    lowbound 0.382;
+    highbound 0.501;
+}
+
+Neural.h::{
+    neunum=35;
+}
+
+valid:
+123/200; 55iterator
+119/200; 15iterator;
+
+v3:low;
+v4:hig;
+用于最后的分类阈值调参；
