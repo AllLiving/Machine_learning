@@ -1,0 +1,6 @@
+when no words exist, the sentences will ourput same answer:
+0.0511305 0.0282003 0.140686 0.345793 0.234627 0.199562
+
+and when the same words are so lack, the output will also has nearly no changes;
+0.0510674 0.0282193 0.140615 0.346237 0.234256 0.199606
+
