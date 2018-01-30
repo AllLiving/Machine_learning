@@ -1,0 +1,13 @@
+Tree.h
+
+struct node{int data}--》记录数据的类型是什么；
+node 包含上层枝干是为了回溯吗？
+node 还可以包含vector<node>?不是只能加指针吗？
+
+Tree.cpp
+static void generateTree传入参数node&，是为了修改传入的node参数吗？
+以及const vector<vector<int>>&，的形式是不需要参数的名字的吗？
+以及int(*)(const vector<vector<int>>&, const vector<int>&)是什么呢？
+
+cutNode为什么要包含在cut函数里面呢？
+
